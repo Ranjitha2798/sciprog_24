@@ -1,4 +1,4 @@
-# Practical 6
+# Practical 7
 
 The folder contains practical 7 codes. There are 2 .c files, they are:
 1. To evauate e value
