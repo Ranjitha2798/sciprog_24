@@ -32,9 +32,9 @@ Contains general project documentation, including this README.md file, and any o
 ## Example Structure:
 ### For Practical Assignment 2:
 practical-2/
-  ├── README.md       # Instructions for running and understanding Practical 2
-  ├── main.c          # Implementation of Practical 2
-  └── additional.c    # Any supporting files (if applicable)
+  * README.md       # Instructions for running and understanding Practical 2
+  * main.c          # Implementation of Practical 2
+  * additional.c    # Any supporting files (if applicable)
 
 ## Prerequisites
 Before working with this repository, ensure you have the following installed and set up:
