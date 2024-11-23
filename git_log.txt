@@ -1,0 +1,30 @@
+commit 67daf0dc5179ed6ec1ab8c729679b2291127a651 (HEAD -> master, origin/practical9, origin/master, practical9)
+Author: ranjitha2798 <ranjithabk2798@gmail.com>
+Date:   Tue Nov 19 23:34:41 2024 +0000
+
+    Add practical 9 codes
+
+commit 8b13db8ab2b9093652352522a018d594208e2831 (origin/practical8, practical8)
+Author: ranjithabk2798@gmail.com <ranjithabk2798@gmail.com>
+Date:   Tue Nov 12 19:07:25 2024 +0000
+
+    Add practical8 code
+
+commit e498151c86b26dd63cffa0763b28e56e8e083922
+Author: ranjitha2798 <ranjithabk2798@gmail.com>
+Date:   Mon Nov 11 20:29:36 2024 +0000
+
+    Add README file to practical7 code
+
+commit 415b74bd7043b0d907fb225a41cd5ba6184f40e3
+Author: ranjitha2798 <ranjithabk2798@gmail.com>
+Date:   Mon Nov 11 20:26:02 2024 +0000
+
+    Add 2 practical7 codes
+
+commit 9d8312d949739b21ed08e8fd75c997a528a7c5fb (origin/practical7, origin/practical6, practical7, practical6)
+Author: ranjitha2798 <ranjithabk2798@gmail.com>
+Date:   Mon Nov 4 17:53:51 2024 +0000
+
+    Add 3 practical 6 codes
+   
