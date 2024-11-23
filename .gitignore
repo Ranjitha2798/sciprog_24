@@ -1,0 +1,15 @@
+
+#ignore executable files
+
+ConversionC 
+Sumc
+trapezodial
+trapC
+fibC
+atan
+matmul
+matmultC
+evalue
+cpointers
+gcd
+out
